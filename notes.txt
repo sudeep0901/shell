@@ -1,0 +1,25 @@
+first.txt
+first.txt
+sudeep patel
+Wed Dec 19 17:29:59 IST 2018: sudeep patel
+Wed Dec 19 17:33:05 IST 2018: sudeep patel
+Wed Dec 19 19:12:27 IST 2018:
+Wed Dec 19 19:12:35 IST 2018: testing
+Wed Dec 19 19:12:49 IST 2018: testing
+Wed Dec 19 19:13:39 IST 2018: testing
+Wed Dec 19 19:13:53 IST 2018: testing
+Wed Dec 19 19:14:42 IST 2018: testing
+Wed Dec 19 19:14:59 IST 2018: testing
+Wed Dec 19 19:15:33 IST 2018: testing
+Wed Dec 19 19:15:40 IST 2018: testing
+Wed Dec 19 19:15:50 IST 2018: testing
+Wed Dec 19 19:17:51 IST 2018: testing
+Wed Dec 19 19:27:05 IST 2018, hELLO ADDING TO file
+Wed Dec 19 19:29:50 IST 2018, list
+Wed Dec 19 19:30:28 IST 2018, Sudeep Patel
+Wed Dec 19 19:30:52 IST 2018, Nokia [H+
+Wed Dec 19 19:33:30 IST 2018, Hell
+Wed Dec 19 19:34:04 IST 2018, Hello
+Wed Dec 19 19:35:09 IST 2018,
+Wed Dec 19 19:35:25 IST 2018,
+Wed Dec 19 19:38:33 IST 2018, Tesng more workd in input
