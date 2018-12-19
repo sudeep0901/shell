@@ -15,3 +15,5 @@ else
     echo "No Input: note wasn't saved."
     # ./userinput.sh  "shopping list"
 fi
+
+exit 0
